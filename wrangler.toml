@@ -1,0 +1,11 @@
+name = "prerender"
+type = "javascript"
+
+account_id = "1dc651e6b820106747b44e0b0acdbb49"
+workers_dev = false
+routes = ["prerender.jwdn.cc/*"]
+zone_id = "65e0481a88d22d9a9dcd0b567e2289a9"
+compatibility_date = "2022-03-29"
+
+[secrets]
+# PRERENDER_API_KEY

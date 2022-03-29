@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "prerenderio-worker",
+  "version": "1.0.0",
+  "description": "Prerender.io Worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "James Deane <jdeane@cloudflare.com>",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
